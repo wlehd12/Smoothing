@@ -1,0 +1,9 @@
+﻿  Mesh.cpp
+c:\users\user\desktop\meshview (msvs 2017-complete version)\meshview (msvs 2017-complete version)\navigation (msvs 2017)\mesh.cpp(104): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다.
+  3 of 275 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MeshViewer.vcxproj -> C:\Users\USER\Desktop\MeshView (MSVS 2017-Complete Version)\MeshView (MSVS 2017-Complete Version)\Navigation (MSVS 2017)\Release\MeshViewer.exe
